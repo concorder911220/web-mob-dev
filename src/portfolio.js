@@ -20,21 +20,21 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Daniel Lee",
-  title: "Hi all, I'm Daniel",
+  username: "Kyrylo Fesik",
+  title: "Hi all, I'm Kyrylo",
   subTitle: emoji(
     "A passionate Full Stack Developer 🚀 having an experience of building Web and Mobile applications with React / Vue.js / Flutter / Nodejs  and some other cool libraries and frameworks."
   ),
-    // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/profullstackdeveloper",
-  linkedin: "https://hk.linkedin.com/in/daniel-lee841a78235",
-  gmail: "neverdream9106@gmail.com",
+  github: "https://github.com/concorder911220",
+  linkedin: "https://ua.linkedin.com/in/kyrylo-fesik841a78235",
+  gmail: "gramsasael@gmail.com",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -59,8 +59,8 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    
-    
+
+
     {
       skillName: "React",
       fontAwesomeClassname: "fab fa-react"
@@ -139,8 +139,8 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "The Hong Kong University of Science and Technology",
-      logo: require("./assets/images/HKUST.png"),
+      schoolName: "Ivan Franko National University of Lviv",
+      // logo: require("https://lnu.edu.ua/wp-content/uploads/2015/01/herb-b.jpg"),
       subHeader: "Bachelor's degree in Computer Science",
       duration: "April 2011 - April 2015",
       desc: "",
@@ -182,10 +182,10 @@ const workExperiences = {
   experience: [
     {
       role: "Senior Full stack developer",
-      company: "Monstainfinite.com",
-      companylogo: require("./assets/images/monsta.jpg"),
-      date: "Feb 2021 – Dec 2021",
-      desc: "Innovative Full stack Engineer with a strong Linux background, designing, implementing, and managing cutting-edge Frontend development and Backend development.",
+      company: "FAIRMUSIC",
+      companylogo: require("./assets/images/icon-512.webp"),
+      date: "Feb 2023 – Current",
+      desc: "Innovative Frontend stack Engineer with a strong React background, designing, implementing, and managing cutting-edge Frontend development and Backend development.",
     },
     {
       role: "Front-End Developer",
@@ -219,13 +219,13 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/monsta.jpg"),
-      projectName: "Monstainfinite.com",
-      projectDesc: "NFT marketplace for P2E game Metaverse",
+      image: require("./assets/images/icon-512.webp"),
+      projectName: "ROKK",
+      projectDesc: "The First Streaming App Deticated To ROCK & METAL",
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://monstainfinite.com"
+          url: "https://rokk-app.com"
         }
         //  you can add extra buttons here.
       ]
@@ -295,7 +295,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
@@ -366,8 +366,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+852 8 121 4256",
-  email_address: "neverdream9106@gmail.com"
+  number: "+380974718107",
+  email_address: "gramsasael@gmail.com"
 };
 
 // Twitter Section
