@@ -33,8 +33,8 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/concorder911220",
-  linkedin: "https://ua.linkedin.com/in/kyrylo-fesik841a78235",
-  gmail: "gramsasael@gmail.com",
+  linkedin: "https://ge.linkedin.com/in/kyrylo-fesik841a78235",
+  gmail: "kyrylofesyk93@outlook.com",
   display: true // Set true to display this section, defaults to false
 };
 
@@ -139,7 +139,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Ivan Franko National University of Lviv",
+      schoolName: "Ivane Javakhishvili Tbilisi State University",
       // logo: require("https://lnu.edu.ua/wp-content/uploads/2015/01/herb-b.jpg"),
       subHeader: "Bachelor's degree in Computer Science",
       duration: "April 2011 - April 2015",
@@ -366,8 +366,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+380974718107",
-  email_address: "gramsasael@gmail.com"
+  number: "+995571035872",
+  email_address: "kyrylofesyk93@outlook.com"
 };
 
 // Twitter Section
