@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/web-mob-dev/static/css/main.34511000.chunk.css",
+    "main.js": "/web-mob-dev/static/js/main.f9a03a0b.chunk.js",
+    "main.js.map": "/web-mob-dev/static/js/main.f9a03a0b.chunk.js.map",
+    "runtime-main.js": "/web-mob-dev/static/js/runtime-main.9c2921b9.js",
+    "runtime-main.js.map": "/web-mob-dev/static/js/runtime-main.9c2921b9.js.map",
+    "static/js/2.44be6d7d.chunk.js": "/web-mob-dev/static/js/2.44be6d7d.chunk.js",
+    "static/js/2.44be6d7d.chunk.js.map": "/web-mob-dev/static/js/2.44be6d7d.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/web-mob-dev/static/css/3.df879eac.chunk.css",
+    "static/js/3.488ceada.chunk.js": "/web-mob-dev/static/js/3.488ceada.chunk.js",
+    "static/js/3.488ceada.chunk.js.map": "/web-mob-dev/static/js/3.488ceada.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/web-mob-dev/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.a9622e21.chunk.js": "/web-mob-dev/static/js/4.a9622e21.chunk.js",
+    "static/js/4.a9622e21.chunk.js.map": "/web-mob-dev/static/js/4.a9622e21.chunk.js.map",
+    "index.html": "/web-mob-dev/index.html",
+    "precache-manifest.41d31ae0e50bb9c273d15b09326d5396.js": "/web-mob-dev/precache-manifest.41d31ae0e50bb9c273d15b09326d5396.js",
+    "service-worker.js": "/web-mob-dev/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/web-mob-dev/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/web-mob-dev/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.34511000.chunk.css.map": "/web-mob-dev/static/css/main.34511000.chunk.css.map",
+    "static/js/2.44be6d7d.chunk.js.LICENSE.txt": "/web-mob-dev/static/js/2.44be6d7d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/web-mob-dev/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/applied.png": "/web-mob-dev/static/media/applied.f86cf5c3.png",
+    "static/media/codeInLogo.webp": "/web-mob-dev/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/web-mob-dev/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/web-mob-dev/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/web-mob-dev/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/housetable.png": "/web-mob-dev/static/media/housetable.335c6e12.png",
+    "static/media/icon-512.webp": "/web-mob-dev/static/media/icon-512.f01fad69.webp",
+    "static/media/manOnTable.svg": "/web-mob-dev/static/media/manOnTable.52be3144.svg",
+    "static/media/pwaLogo.webp": "/web-mob-dev/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/skill.svg": "/web-mob-dev/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/web-mob-dev/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c2921b9.js",
+    "static/js/2.44be6d7d.chunk.js",
+    "static/css/main.34511000.chunk.css",
+    "static/js/main.f9a03a0b.chunk.js"
+  ]
+}
